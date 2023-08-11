@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "shortcut-script-app.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
